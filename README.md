@@ -1,18 +1,36 @@
 <h1 align="center">Hi 👋, I'm Dilshad</h1>
 <h3 align="center">a Gamer & Developer Who Think He Can Make Better Games</h3>
 
-- 👨‍💻 All of my projects are available at [https://dilshad716.github.io/Portfolio](https://dilshad716.github.io/Portfolio)
+---
 
-- 📫 How to reach me **mddilshad715@gmail.com**
+## 👨‍💻 About Me
 
-- 📄 Know about my experiences [https://dilshad716.github.io/Portfolio/CV/CV.pdf](https://dilshad716.github.io/Portfolio/CV/CV.pdf)
+I'm a passionate gamer who started his game development journey while playing games, when a sudden thought came to my mind:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mddilshad715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mddilshad715" height="30" width="40" /></a>
-</p>
+> *"I have played lots of games and I know what makes a game better.  
+If I were making games, then definitely I could make better games."*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+With this thought, I started digging into game development.  
+I didn’t come from a technical background like BCA, Computer Science, or BTech — but I never stopped learning.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshad715&show_icons=true&locale=en&layout=compact" alt="dilshad715" /></p>
+I learned programming and computer fundamentals from scratch, explored Unity deeply, and eventually realized that **gameplay programming** is my strongest area.
+
+For more than **1+ year**, I’ve been focused on writing clean, scalable, production-ready code and preparing myself to be industry-ready.
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilshad715)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mddilshad715@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
+⭐ *Thanks for stopping by — hope you enjoyed this little conversation with me. Bye!*
