@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilshad</h1>
-<h3 align="center">a Gamer & Developer Who Think He Can Make Better Games</h3>
+<h3 align="center">A Gamer & Developer Who Think He Can Make Better Games</h3>
 
 ---
 
